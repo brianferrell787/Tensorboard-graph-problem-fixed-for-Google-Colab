@@ -30,33 +30,5 @@ Now I am a happy camper because I get to use my neural network graph! Hope this 
 <div align="left"><img src="tensorgraph.JPG"</img></div><br />
 
 # Implementation found here 
-
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "name": "ColabTensorboardissuefixed.ipynb",
-      "provenance": [],
-      "collapsed_sections": [],
-      "toc_visible": true,
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "display_name": "Python 3",
-      "language": "python",
-      "name": "python3"
-    },
-    "accelerator": "GPU"
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/brianferrell787/Tensorboard-graph-problem-fixed-for-Google-Colab/blob/master/ColabTensorboardissuefixed.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    }
+[![License: MIT](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brianferrell787/Tensorboard-graph-problem-fixed-for-Google-Colab/blob/master/ColabTensorboardissuefixed.ipynb) 
+ 
