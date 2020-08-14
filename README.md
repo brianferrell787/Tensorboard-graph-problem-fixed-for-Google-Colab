@@ -17,12 +17,12 @@ So what I suggest is running everything on there that is needed i.e. tensorboard
 
 ## Then follow these steps:
 
-### 1. Go to your files on Google Colab and download the logged file under train(seen below)
+<h3> 1. Go to your files on Google Colab and download the logged file under train(seen below)</h3>
 <div align="left"><img src="copyfile.JPG"</img></div><br />
-### 2. Create a new folder called "log" and put the downloaded file in that folder. Place folder in the correct spot(you will see where in a second)<br />
-### 3. Open your command prompt and type "tensorboard --logdir=log", but make sure the folder is in the correct spot for the command prompt to find it. As you see the photo my folder was in the C drive, users, and then my name.
+<h3>2. Create a new folder called "log" and put the downloaded file in that folder. Place folder in the correct spot(you will see where in a second)</h3><br />
+<h3>3. Open your command prompt and type "tensorboard --logdir=log", but make sure the folder is in the correct spot for the command prompt to find it. As you see the photo my folder was in the C drive, users, and then my name.</h3>
 <div align="left"><img src="commandprompt.JPG"</img></div><br />
-### 4. Then highlight over the local host webiste given and copy/paste that into a URL and you should get this:
+<h3>4. Then highlight over the local host webiste given and copy/paste that into a URL and you should get this:</h3>
 <div align="left"><img src="tensorboard.JPG"</img></div><br />
 
 # Results
