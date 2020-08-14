@@ -59,4 +59,10 @@ Now I am a happy camper because I get to use my neural network graph! Hope this 
       "source": [
         "<a href=\"https://colab.research.google.com/github/brianferrell787/Tensorboard-graph-problem-fixed-for-Google-Colab/blob/master/ColabTensorboardissuefixed.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
-    }
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "colab_type": "text",
+        "id": "56V5oun18ZdZ"
+      },
