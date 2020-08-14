@@ -21,7 +21,13 @@ So what I suggest is running everything on there that is needed i.e. tensorboard
 <div align="left"><img src="copyfile.JPG"</img></div><br />
 2. Create a new folder called "log" and put the downloaded file in that folder. Place folder in the correct spot(you will see where in a second)<br />
 3. Open your command prompt and type "tensorboard --logdir=log", but make sure the folder is in the correct spot for the command prompt to find it. As you see the photo my folder was in the C drive, users, and then my name.
-<div align="left"><img src="commandprompt.JPG"</img></div>
+<div align="left"><img src="commandprompt.JPG"</img></div><br />
+4. Then highly over the local host webiste given and copy/paste that into a URL and you should get this:
+<div align="left"><img src="tensorboard.JPG"</img></div><br />
+
+# Results
+Now I am a happy camper because I get to use my neural network graph! Hope this works!
+<div align="left"><img src="tensorgraph.JPG"</img></div><br />
 
 
 
