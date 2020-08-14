@@ -1,6 +1,6 @@
 # Tensorboard-graph-problem-fixed-for-Google-Colab
 # Purpose
-I wanted to make a simple graph visualizing the architecture of my text classification algorithm and I came across Tensorboard graphs and thought I might give it a try. Sadly I kept getting an error that looks like this:<br />
+I wanted to make a simple graph visualizing the architecture of my text classification algorithm and I came across Tensorboard graphs for Google Colab and thought I might give it a try. Sadly I kept getting an error that looks like this:<br />
 <div align="left"><img src="tensorfail.JPG"</img></div>
 
 
