@@ -28,6 +28,9 @@ So what I suggest is running everything on there that is needed i.e. tensorboard
 # Results
 Now I am a happy camper because I get to use my neural network graph! Hope this works!
 <div align="left"><img src="tensorgraph.JPG"</img></div><br />
+## An edited version of the graph is show below:
+<div align="left"><img src="editedgraph.png"</img></div><br />
+All I did was upload the original photo into Word and added color, etc, to make it come alive for my paper
 
 # Implementation found here 
 [![License: MIT](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brianferrell787/Tensorboard-graph-problem-fixed-for-Google-Colab/blob/master/ColabTensorboardissuefixed.ipynb) 
