@@ -28,7 +28,7 @@ So what I suggest is running everything on there that is needed i.e. tensorboard
 # Results
 Now I am a happy camper because I get to use my neural network graph! Hope this works!
 <div align="left"><img src="tensorgraph.JPG"</img></div><br />
-## An edited version of the graph is show below:
+<h3>An edited version of the graph is show below:<h3/>
 <div align="left"><img src="editedgraph.png"</img></div><br />
 All I did was upload the original photo into Word and added color, etc, to make it come alive for my paper
 
